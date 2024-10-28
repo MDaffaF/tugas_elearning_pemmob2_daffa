@@ -1,4 +1,3 @@
-// dashboard_page.dart
 import 'package:flutter/material.dart';
 
 class DashboardPage extends StatelessWidget {
